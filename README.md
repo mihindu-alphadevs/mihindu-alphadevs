@@ -64,8 +64,8 @@ Operational patterns
       <p>AI agents, MCP integrations, prompt-driven development, workflow automation, and multi-model tooling.</p>
     </td>
     <td width="50%">
-      <h3>Engineering Leadership</h3>
-      <p>Architecture reviews, delivery planning, engineering enablement, team processes, and technical decision-making.</p>
+      <h3>Engineering Practice</h3>
+      <p>Architecture reviews, documentation, delivery planning, system design, and continuous improvement.</p>
     </td>
   </tr>
 </table>
@@ -158,15 +158,12 @@ infrastructure/
 
 ---
 
-## GitHub Activity
+## Activity
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mihindu-alphadevs&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihindu-alphadevs&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
+```txt
+Mostly working across backend systems, infrastructure experiments,
+blockchain architecture, AI tooling, automation, and engineering notes.
+```
 
 ---
 
