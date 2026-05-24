@@ -9,6 +9,9 @@ AI-powered platforms and scalable enterprise software.
   <img src="https://komarev.com/ghpvc/?username=mihindu-alphadevs&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
+
+![snake gif](https://github.com/mihindu-alphadevs/mihindu-alphadevs/blob/output/github-contribution-grid-snake.svg)
+
 ---
 
 # ⚡ Systems Architect | Blockchain Engineer | AI Builder
